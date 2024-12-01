@@ -20,8 +20,7 @@ Both programs are designed to be simple yet interactive for users to enjoy while
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Mapur2/Command-Line-Fun.git
    ```
 
 2. Create and activate a virtual environment:
