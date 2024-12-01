@@ -1,4 +1,4 @@
-# README for Python Command Line Programs
+# Command Line Fun
 
 This repository contains two Python command-line programs:
 
